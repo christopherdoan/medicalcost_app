@@ -5,6 +5,5 @@ pandas
 pickleshare 
 Pillow 
 scikit-learn
-scikit-learn-intelex==2021.20220207.124119
 scipy
 seaborn 
