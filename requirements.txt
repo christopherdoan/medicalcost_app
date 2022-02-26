@@ -1,10 +1,10 @@
-matplotlib @ file:///D:/bld/matplotlib-suite_1639359208125/work
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
-numpy @ file:///D:/bld/numpy_1643959111320/work
-pandas @ file:///D:/bld/pandas_1644670226603/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow @ file:///D:/bld/pillow_1630696802041/work
-scikit-learn @ file:///D:/bld/scikit-learn_1640464393983/work
+matplotlib
+matplotlib-inline 
+numpy 
+pandas 
+pickleshare 
+Pillow 
+scikit-learn
 scikit-learn-intelex==2021.20220207.124119
-scipy @ file:///C:/bld/scipy_1644357595180/work
-seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1629095986539/work
+scipy
+seaborn 
